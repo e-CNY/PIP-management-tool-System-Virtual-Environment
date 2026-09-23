@@ -6,7 +6,7 @@ import os
 import webbrowser
 
 TSINGHUA_SOURCE = "https://pypi.tuna.tsinghua.edu.cn/simple"
-URL_HOME = "https://www.baidu.com"     # 视频演示链接
+URL_HOME = "https://www.bilibili.com/video/BV1y6hx6fEfU"     # 视频演示链接
 URL_HELP = "https://github.com/e-CNY/PIP-management-tool-System-Virtual-Environment/blob/main/README.md"     # 使用说明链接
 
 # ========== 链接打开函数==========
