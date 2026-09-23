@@ -10,7 +10,7 @@
 
 
 ### 使用方法
-1. 安装Python和Tkinter模块
+1. 安装Python（记得勾选勾选 tcl/tk and IDLE）
 2. 双击打开 `pip_tool.py`
 3. 运行程序：系统环境可直接操作；虚拟环境需先浏览选择目标目录，点击按钮创建新虚拟环境
 
@@ -23,7 +23,7 @@
 A graphical tool for managing PIP packages, replacing manual command-line operations.GUI and code of this project are assisted by Doubao (ByteDance Seed LLM), manually debugged, integrated, optimized and open-sourced by the developer.
 
 ### Usage
-1. Install Python and Tkinter modules
+1. Install Python (remember to check tcl/tk and IDLE)
 2. Double-click to open `pip_tool.py`
 3. Run the program: system environment can be operated directly. For virtual environment, browse and select target folder first, then click to create new virtual environment.
 
