@@ -10,7 +10,7 @@
 
 
 ### 使用方法
-1. 安装Python（记得勾选勾选 tcl/tk and IDLE）
+1. 安装Python（记得勾选 tcl/tk and IDLE）
 2. 双击打开 `pip_tool.py`
 3. 运行程序：系统环境可直接操作；虚拟环境需先浏览选择目标目录，点击按钮创建新虚拟环境
 
