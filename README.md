@@ -1,12 +1,13 @@
 # PIP管理工具｜系统 + 虚拟环境 / PIP management tool | System + Virtual Environment
-[English](#english) | [中文](#chinese)
+[English](#english) | [中文说明](#chinese)
 
 ---
 
 <a id="chinese"></a>
 ![软件界面截图](pic.png)
 ### 项目简介
-图形界面工具用于管理PIP包，替代手动命令行操作。
+图形界面工具用于管理PIP包，替代手动命令行操作。本项目界面、代码由 豆包（字节跳动 Seed 大模型）辅助生成，由开发者手动调试、整合、优化并开源发布。
+
 
 ### 使用方法
 1. 安装Python和Tkinter模块
@@ -19,7 +20,7 @@
 
 <a id="english"></a>
 ### Project Introduction
-A graphical tool for managing PIP packages, replacing manual command-line operations.
+A graphical tool for managing PIP packages, replacing manual command-line operations.GUI and code of this project are assisted by Doubao (ByteDance Seed LLM), manually debugged, integrated, optimized and open-sourced by the developer.
 
 ### Usage
 1. Install Python and Tkinter modules
