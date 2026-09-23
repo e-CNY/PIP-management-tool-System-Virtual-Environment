@@ -1,5 +1,5 @@
 # PIP管理工具｜系统 + 虚拟环境 / PIP management tool | System + Virtual Environment
-[English](#english) | [中文说明](#chinese)
+[English](#english) | [中文](#chinese)
 
 ---
 
