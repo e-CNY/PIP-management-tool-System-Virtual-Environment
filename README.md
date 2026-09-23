@@ -14,7 +14,7 @@
 2. 双击打开 `pip_tool.py`
 3. 运行程序：系统环境可直接操作；虚拟环境需先浏览选择目标目录，点击按钮创建新虚拟环境
 
-[软件介绍](https://www.baidu.com/)
+[视频演示](https://www.bilibili.com/video/BV1y6hx6fEfU)
 
 ---
 
@@ -27,4 +27,4 @@ A graphical tool for managing PIP packages, replacing manual command-line operat
 2. Double-click to open `pip_tool.py`
 3. Run the program: system environment can be operated directly. For virtual environment, browse and select target folder first, then click to create new virtual environment.
 
-[Software Introduction](https://www.baidu.com/)
+[Video Demonstration](https://www.bilibili.com/video/BV1y6hx6fEfU)
